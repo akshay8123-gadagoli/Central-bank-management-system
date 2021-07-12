@@ -1,1 +1,1 @@
-# Central-bank-management-systtem
+# Central-bank-management-system
